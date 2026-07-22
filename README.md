@@ -41,3 +41,25 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos como:
 * Criptografia de senhas utilizando Hash.
 
 Além disso, o sistema busca simular um cenário real de controle de acesso e gerenciamento de usuários, servindo como projeto de estudo e portfólio.
+
+## Demonstração
+
+### Tela de Login
+
+![Tela de Login](imagens/login.png)
+
+### Menu Principal
+
+![Menu Principal](imagens/menu.png)
+
+### Cadastro
+
+![Cadastro](imagens/cadastro.png)
+
+### Lista
+
+![Cadastro](imagens/lista.png)
+
+### Histórico
+
+![Histórico](imagens/historico.png)
