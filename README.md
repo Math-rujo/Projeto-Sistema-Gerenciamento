@@ -66,4 +66,4 @@ Além disso, o sistema busca simular um cenário real de controle de acesso e ge
 
 ### Histórico
 
-![Histórico](PRJ_Sistem_Gerenciamento/imagens/historico.png)
+![Histórico](imagens/historico.png)
