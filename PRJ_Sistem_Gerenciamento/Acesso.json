@@ -117,5 +117,12 @@
         "cargo": "Gerente",
         "data_hora": "21/07/2026 23:27:44",
         "data_hora_saida": "21/07/2026 23:30:22"
+    },
+    {
+        "usuario": "teste",
+        "nome": "Teste",
+        "cargo": "Gerente",
+        "data_hora": "21/07/2026 23:48:36",
+        "data_hora_saida": "21/07/2026 23:49:02"
     }
 ]
