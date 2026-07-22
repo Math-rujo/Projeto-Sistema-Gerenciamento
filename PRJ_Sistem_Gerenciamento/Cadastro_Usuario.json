@@ -47,5 +47,31 @@
         "salt": "gE0i381wMrYaO/NR4TZMLg==",
         "cargo": "Gestão",
         "id": 3
+    },
+    {
+        "nome": "Teste",
+        "usuario": "teste1",
+        "email": "teste_1@gmail.com",
+        "telefone": "(10) 00235-4325",
+        "data_nascimento": "01/02/2000",
+        "cpf": "123.426.586-54",
+        "cep": "10000-012",
+        "senha_hash": "EoZe65qAm+Q6wuWDTilaoQrFf7beGNPzAwRHYdjVUgI=",
+        "salt": "q4OMD5CZI2a6g1NTKGbqPQ==",
+        "cargo": "Gerente",
+        "id": 4
+    },
+    {
+        "nome": "Joao da silva",
+        "usuario": "joao silva",
+        "email": "joaosilva@gmail.com",
+        "telefone": "(10) 98223-4312",
+        "data_nascimento": "09/05/2003",
+        "cpf": "984.736.428-59",
+        "cep": "04050-043",
+        "senha_hash": "Emg+6k5dADS/v1dGGxDQ5ZW67aEDqYHCkZYw+8onFYE=",
+        "salt": "3HXZ5ysvwawTcXJYDSjNPA==",
+        "cargo": "Pesquisador",
+        "id": 5
     }
 ]

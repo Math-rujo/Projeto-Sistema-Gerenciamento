@@ -16,7 +16,7 @@ def abrir_sobre():
 
     ctk.CTkLabel(
         janela,
-        text="Aplicativo Desenvolvido por:\n\nJoão Aylton Mariotto\n Matheus Araujo Guedes Silva\n Ryan cardoso\nPedro Henrique da Silva Pereira\nVictor Hugo Bahia Cardoso dos Santos",
+        text="Aplicativo Desenvolvido por:\n\n Matheus Araujo Guedes Silva\n Ryan cardoso",
         font=("Arial", 14),
         justify="center",
         text_color="gray"
