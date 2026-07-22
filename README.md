@@ -46,20 +46,20 @@ Além disso, o sistema busca simular um cenário real de controle de acesso e ge
 
 ### Tela de Login
 
-![Tela de Login](imagens/login.png)
+![Tela de Login](PRJ_Sistem_Gerenciamento/imagens/login.png)
 
 ### Menu Principal
 
-![Menu Principal](imagens/menu.png)
+![Menu Principal](PRJ_Sistem_Gerenciamento/imagens/menu.png)
 
 ### Cadastro
 
-![Cadastro](imagens/cadastro.png)
+![Cadastro](PRJ_Sistem_Gerenciamento/imagens/cadastro.png)
 
 ### Lista
 
-![Cadastro](imagens/lista.png)
+![Cadastro](PRJ_Sistem_Gerenciamento/imagens/lista.png)
 
 ### Histórico
 
-![Histórico](imagens/historico.png)
+![Histórico](PRJ_Sistem_Gerenciamento/imagens/historico.png)
