@@ -6,7 +6,7 @@ O projeto simula um sistema de controle de acesso, permitindo o cadastro de usu�
 
 ## Demonstração
 
-![Demo](PRJ_Sistem_Gerenciamento/imagens/video_python_demo1.gif)
+![Demo](imagens/video_python_demo1.gif)
 
 ## Tecnologias utilizadas
 
@@ -50,19 +50,19 @@ Além disso, o sistema busca simular um cenário real de controle de acesso e ge
 
 ### Tela de Login
 
-![Tela de Login](PRJ_Sistem_Gerenciamento/imagens/login.png)
+![Tela de Login](imagens/login.png)
 
 ### Menu Principal
 
-![Menu Principal](PRJ_Sistem_Gerenciamento/imagens/menu.png)
+![Menu Principal](imagens/menu.png)
 
 ### Cadastro
 
-![Cadastro](PRJ_Sistem_Gerenciamento/imagens/cadastro.png)
+![Cadastro](imagens/cadastro.png)
 
 ### Lista
 
-![Cadastro](PRJ_Sistem_Gerenciamento/imagens/lista.png)
+![Cadastro](imagens/lista.png)
 
 ### Histórico
 
