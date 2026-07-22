@@ -4,6 +4,10 @@ Sistema de gerenciamento de usuários desenvolvido em **Python** com interface g
 
 O projeto simula um sistema de controle de acesso, permitindo o cadastro de usuários, autenticação por login e gerenciamento de registros de entrada e saída, com diferentes níveis de permissão conforme o cargo do usuário.
 
+## Demonstração
+
+![Demo](PRJ_Sistem_Gerenciamento/imagens/video_python_demo1.gif)
+
 ## Tecnologias utilizadas
 
 * Python
