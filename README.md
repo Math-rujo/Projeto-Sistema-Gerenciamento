@@ -67,3 +67,23 @@ Além disso, o sistema busca simular um cenário real de controle de acesso e ge
 ### Histórico
 
 ![Histórico](imagens/historico.png)
+
+## Como executar
+
+### Requisitos
+
+- Python
+- Uma IDE compatível com python, como Visual code.
+
+### Execução
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/Math-rujo/Projeto-Jogo-RPG-Java.git
+```
+
+2. Abra o projeto na sua IDE;
+3. Localize a classe principal;
+4. Execute o método login.
+  Obs: para acessar basta inserir o usuario teste, senha: Teste123.
