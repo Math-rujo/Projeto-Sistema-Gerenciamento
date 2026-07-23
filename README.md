@@ -86,4 +86,4 @@ https://github.com/Math-rujo/Projeto-Sistema-Gerenciamento.git
 2. Abra o projeto na sua IDE;
 3. Localize a classe principal;
 4. Execute o método login.
-  Obs: para acessar basta inserir o usuario teste, senha: Teste123.
+  - Obs: para acessar basta inserir o usuario teste, senha: Teste123.
