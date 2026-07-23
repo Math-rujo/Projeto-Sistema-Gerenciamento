@@ -80,7 +80,7 @@ Além disso, o sistema busca simular um cenário real de controle de acesso e ge
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/Math-rujo/Projeto-Jogo-RPG-Java.git
+https://github.com/Math-rujo/Projeto-Sistema-Gerenciamento.git
 ```
 
 2. Abra o projeto na sua IDE;
