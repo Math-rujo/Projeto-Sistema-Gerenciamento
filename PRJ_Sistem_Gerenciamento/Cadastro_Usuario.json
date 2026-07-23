@@ -1,15 +1,5 @@
 [
     {
-        "nome": "Matheus Araujo",
-        "usuario": "matheus",
-        "email": "Matheus.silva@gmail.com",
-        "telefone": "(16) 98111-1111",
-        "data_nascimento": "20/01/2002",
-        "cpf": "123.456.789-10",
-        "cep": "14000-100",
-        "senha": ""
-    },
-    {
         "nome": "Teste",
         "usuario": "teste",
         "email": "teste@gmail.com",
@@ -21,57 +11,5 @@
         "salt": "4tCYdPAhD6TLDFuKA6+dYA==",
         "cargo": "Gerente",
         "id": 1
-    },
-    {
-        "nome": "Teste_Estagiario",
-        "usuario": "estagiario",
-        "email": "estagiario@gmail.com",
-        "telefone": "(12) 34567-8910",
-        "data_nascimento": "01/01/0101",
-        "cpf": "121.345.678-91",
-        "cep": "10001-000",
-        "senha_hash": "WYimQjk9TT+XYlqpRV68341ZncW4CRedWJyWqyPUi50=",
-        "salt": "M9PPAPMkM/q5gPEbLrFX9A==",
-        "cargo": "Estagiário",
-        "id": 2
-    },
-    {
-        "nome": "usuario",
-        "usuario": "usuario",
-        "email": "usuario@gmail.com",
-        "telefone": "(90) 10009-0090",
-        "data_nascimento": "01/01/2001",
-        "cpf": "122.343.831-23",
-        "cep": "10000-100",
-        "senha_hash": "fRjGiaRKvj+mooTvBuYksmglbD84mmtbdqoPNX71Jao=",
-        "salt": "gE0i381wMrYaO/NR4TZMLg==",
-        "cargo": "Gestão",
-        "id": 3
-    },
-    {
-        "nome": "Teste",
-        "usuario": "teste1",
-        "email": "teste_1@gmail.com",
-        "telefone": "(10) 00235-4325",
-        "data_nascimento": "01/02/2000",
-        "cpf": "123.426.586-54",
-        "cep": "10000-012",
-        "senha_hash": "EoZe65qAm+Q6wuWDTilaoQrFf7beGNPzAwRHYdjVUgI=",
-        "salt": "q4OMD5CZI2a6g1NTKGbqPQ==",
-        "cargo": "Gerente",
-        "id": 4
-    },
-    {
-        "nome": "Joao da silva",
-        "usuario": "joao silva",
-        "email": "joaosilva@gmail.com",
-        "telefone": "(10) 98223-4312",
-        "data_nascimento": "09/05/2003",
-        "cpf": "984.736.428-59",
-        "cep": "04050-043",
-        "senha_hash": "Emg+6k5dADS/v1dGGxDQ5ZW67aEDqYHCkZYw+8onFYE=",
-        "salt": "3HXZ5ysvwawTcXJYDSjNPA==",
-        "cargo": "Pesquisador",
-        "id": 5
     }
 ]
